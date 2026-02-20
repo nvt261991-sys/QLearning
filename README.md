@@ -24,5 +24,5 @@ YouTube[Siraj Raval]: https://www.youtube.com/watch?v=aCEvtRtNO-M
 
 Siraj Raval's YouTube channel is dedicated to computer/math science and has many lecture like videos.
 
-PS: Hope I'm not doing 'github' too bad.
+PS: Hope I'm not doing 'github' too bad.https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh
 
